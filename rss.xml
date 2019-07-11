@@ -12,6 +12,34 @@
 <!-- ZERM -->
 
 <item>
+<title>Der neue Überwachungsstaat England</title>
+<guid>https://zerm.chrissx.ga/2019.html#der-neue-ueberwachungsstaat-england</guid>
+<pubDate>Thu, 11 Jul 2019 18:38:21 +0200</pubDate>
+<description><![CDATA[
+<p>
+In den letzten Wochen hat Mozilla sich klar dafür positioniert, Sicherheit und Privatsphäre im Internet zum Standard zu machen. Nun gibt es aber viele Überwachungsstaaten, die Mozilla jetzt für diese Entscheidung hassen.
+</p>
+
+<p>
+Bei der Übermacht der Überwachungsregimes in den USA und China schlägt der Minderwertigkeitskomplex mal wieder zu. Die Engländer arbeiten neben dem Brexit auch noch seit Jahren an einem Überwachungssystem in Form der Government Communications Headquarters, kurz GCHQ.
+</p>
+
+<p>
+Und Überwachungsinstitutionen hassen Verbesserungen von Sicherheit und Privatsphäre. Deswegen hat das Vorhaben Mozillas, DNS over HTTPS zu implementieren, wohl auch solche Anfeindungen von Seiten der Spionagedienste zur Folge.
+</p>
+
+<p>
+Man kann also konkludieren, dass viele Überwachungsbehörden, vorallem die GCHQ, Mozilla hassen, da ihnen, unter anderem durch die Implementation von DoH, wohl viele Überwachungsmöglichkeiten entgehen werden.
+</p>
+
+<p>
+PS: Ein etwas kürzerer Artikel tut auch mal ganz gut. 😉
+</p>
+]]></description>
+</item>
+
+
+<item>
 <title>Die Werbung</title>
 <guid>https://zerm.chrissx.ga/2019.html#die-werbung</guid>
 <pubDate>Mon, 08 Jul 2019 12:48:45 +0200</pubDate>
