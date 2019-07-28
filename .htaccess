@@ -1,0 +1,12 @@
+Redirect /0 /wir-sind-da-um-rechte-und-freiheiten-zu-retten
+Redirect /1 /die-genozide-der-sogenannten-christdemokraten
+Redirect /2 /multidimensionale-politik
+Redirect /3 /wann-ist-ein-staat-unabhaengig
+Redirect /4 /die-werbung
+Redirect /5 /der-neue-ueberwachungsstaat-england
+Redirect /6 /die-zeitung-zur-erhaltung-rechter-menschen
+Redirect /7 /wir-leben-im-mittelalter
+Redirect /8 /die-endstufe-des-kapitalismus-die-musikindustrie
+Redirect /9 /die-reden
+Redirect /10 /der-stand-der-welt
+RedirectMatch (.*)$ https://zerm.chrissx.ga/zerm$1.html
