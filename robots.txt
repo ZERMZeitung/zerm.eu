@@ -1,3 +1,3 @@
 User-agent: *
 Disallow: /zm/
-Sitemap: https://zerm.chrissx.ga/sitemap.xml
+Sitemap: https://zerm.eu/sitemap.xml
