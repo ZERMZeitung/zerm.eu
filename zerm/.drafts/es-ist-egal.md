@@ -16,4 +16,10 @@ Das Klima können wir nicht retten, das Spiel ist aus, eine Menschheit, die sich
 
 Es gibt nichts, was wir tun können. Und das ist unsere Freiheit, oder um es mit Natalie Wynn zu sagen: “Nothing matters.”
 
-TODO: noch irgendwas über so RNR LFDY shit.
+Es ist nämlich alleine diese Erkenntnis, die uns zu einem wahrhaftig freien Leben führen kann, einem Leben, das wir nicht Jahre vorausplanen, da wir uns unserer Mortalität bewusst sind.
+
+Wir haben keine Angst, uns unsere Zukunft zu zerstören, da uns niemand zwingen kann, sie je zu erleben, und sie ohnehin sehr düster aussieht.
+
+Im Rock ’n’ Roll wurde dieser Lebensstil auch schon vor Jahrzehnten unter dem Motto “Live Fast, […] Die Young” geführt.
+
+TODO: alanoderso - uff einbauen
