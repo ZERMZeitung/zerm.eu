@@ -1,4 +1,4 @@
-## Das erfüllte Leben in einer absurden Welt
+## Das erfüllte Leben in der absurden Welt
 
 Wir sind die verlorene Generation. Geboren wurden wir im frühen zweiten Jahrtausend nach der Geburt eines hochmütigen Juden.
 
