@@ -1,4 +1,4 @@
-## Das Leben in einer absurden Welt
+## Das erfüllte Leben in einer absurden Welt
 
 Wir sind die verlorene Generation. Geboren wurden wir im frühen zweiten Jahrtausend nach der Geburt eines hochmütigen Juden.
 
@@ -18,8 +18,8 @@ Es gibt nichts, was wir tun können. Und das ist unsere Freiheit, oder um es mit
 
 Es ist nämlich alleine diese Erkenntnis, die uns zu einem wahrhaftig freien Leben führen kann, einem Leben, das wir nicht Jahre vorausplanen, da wir uns unserer Mortalität bewusst sind.
 
-Wir haben keine Angst, uns unsere Zukunft zu zerstören, da uns niemand zwingen kann, sie je zu erleben, und sie ohnehin sehr düster aussieht.
+Wir müssen keine Angst haben, uns unsere Zukunft zu zerstören, da uns niemand zwingen kann, sie je zu erleben, und sie ohnehin sehr düster aussieht.
 
-Im Rock ’n’ Roll wurde dieser Lebensstil auch schon vor Jahrzehnten unter dem Motto “Live Fast, […] Die Young” geführt.
+<!--Vom Rock ’n’ Roll können wir Inspirationen für unseren Lebensstil ziehen, denn auch schon vor Jahrzehnten unter dem Motto “Live Fast, […] Die Young” geführt.-->
 
-TODO: alanoderso - uff einbauen
+<!--TODO: alanoderso - uff einbauen-->
