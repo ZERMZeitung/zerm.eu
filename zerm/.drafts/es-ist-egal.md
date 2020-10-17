@@ -1,4 +1,4 @@
-## Das erfüllte Leben in der absurden Welt
+### Das erfüllte Leben in der absurden Welt
 
 Wir sind die verlorene Generation.
 
