@@ -1,0 +1,11 @@
+Und schon wieder geht ein Jahr vorbei. Das zweite mit unserer Präsenz, um genau zu sein. Und trotz einem vollen Jahr Zeit war dieses doch um einiges inhaltsloser als noch das vorherige.
+
+In diesem Jahre haben wir uns nämlich in, diesen ausgenommen, nur vier Artikeln zur unmöglichen Corona-Revolution, den BLM-Protesten, Rezos „Zerstörung der Presse“ und unserer hedonistischen Sicht auf die Klimakatastrophe positioniert.
+
+Bei dreien dieser vier Artikel handelt es sich immerhin um hochqualitative Werke, dennoch ist dieser Output wohl etwas wenig, vor allem im Vergleich mit dem Jahre 2019. All dies soll sich 2021 allerdings wieder etwas verbessern, genau wie der Rest der ZERM, denn für das nächste Jahr planen wir eine komplette Neustrukturierung des größten Teils der ZERM-Infrastruktur.
+
+Unser aktuelles System basiert auf einem weit verbesserten Fork „zm“ des Tools „lb“ des amerikanischen Rechtsextremisten Luke Smith. Dieses Werkzeug hat einige Vorteile, wie zum Beispiel die Simplizität, da es sich nur um ein in etwa hundertzeiliges Skript handelt, und die Generation von statischem HTML, das es uns erlaubt, einen simplen HTTP-Server zu verwenden. Die Nachteile sind allerdings auch offensichtlich: Korrekturen an bereits veröffentlichten Artikeln sind aufwändig, Änderungen am Layout alter Artikel bei weitem schlimmer und die Erstellung der Gesamtausgaben erfordert eine Menge kruder Skript-Magie, um aus den HTML-Dateien wieder die rohen Artikel zu extrahieren.
+
+Aus diesen Gründen werden wir im kommenden Jahr eine komplette Modernisierung der ZERM-Infrastruktur vornehmen, um diese Probleme zu beheben. Nachdem diese erledigt ist, wird auch wieder mit einer größeren Zahl an Artikeln zu rechnen sein.
+
+In diesem Sinne, lasset uns das Jahr 2020 nun endlich beschließen.
