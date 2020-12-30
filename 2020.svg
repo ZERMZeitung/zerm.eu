@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg
+   xmlns="http://www.w3.org/2000/svg"
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1">
+  <g>
+    <style>
+      @font-face
+      {
+        font-family: "Woodcut";
+        src: url("Woodcut.ttf");
+      }
+      .h1
+      {
+        font-family: Woodcut;
+        font-size: 12px;
+      }
+      .h2
+      {
+        font-family: Woodcut;
+        font-size: 9px;
+      }
+    </style>
+    <text class="h1" x="10" y="18">ZERM GA 2020</text>
+    <text class="h2" x="30" y="145">die libertare pause</text>
+  </g>
+</svg>
