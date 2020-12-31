@@ -6,7 +6,6 @@ Bei dreien dieser vier Artikel handelt es sich immerhin um hochqualitative Werke
 
 Unser aktuelles System basiert auf einem stark verbesserten Fork „zm“ des Tools „lb“ des amerikanischen Rechtsextremisten Luke Smith. Dieses Werkzeug hat einige Vorteile, wie zum Beispiel die Simplizität, da es sich nur um ein in etwa hundertzeiliges Skript handelt, und die Generation von statischem HTML, die es uns erlaubt, einen simplen HTTP-Server zu verwenden. Die Nachteile sind allerdings auch offensichtlich: Korrekturen an bereits veröffentlichten Artikeln sind zwar aufwändig, Änderungen am Layout alter Artikel allerdings noch weitaus arbeitsintensiver und die Erstellung der Gesamtausgaben erfordert eine Menge kruder Skript-Magie, um aus den HTML-Dateien wieder die rohen Artikel zu extrahieren.
 
-TODO: infra beschreiben
-Aus diesen Gründen werden wir im kommenden Jahr eine komplette Modernisierung der ZERM-Infrastruktur vornehmen, um diese Probleme zu beheben. Nachdem diese erledigt ist, wird auch wieder mit einer größeren Zahl an Artikeln zu rechnen sein.
+Aus diesen Gründen werden wir im kommenden Jahr eine komplette Modernisierung der ZERM-Infrastruktur vornehmen und dabei in Zukunft auf einen komplett eigenen Server setzen, um diese Probleme zu beheben. Nachdem diese erledigt ist, wird auch wieder mit einer größeren Zahl an Artikeln zu rechnen sein.
 
 In diesem Sinne, lasset uns das Jahr 2020 nun endlich beschließen.
