@@ -1,6 +1,5 @@
 Anlässlich der politischen Lage - vor Allem innerhalb des letzten Jahres - hielt ich heute [eine Rede auf dem permtv-Kanal](https://youtu.be/9oyUL-4lug4). Hier finden Sie diese Rede noch in Textform.
 
-```
 Sehr geehrte Damen und Herren,
 
 Liebe ZERM-Lesende,
@@ -28,4 +27,3 @@ Ich appelliere an alle amerikanischen Bürgerinnen und Bürger: Wählen Sie kein
 Und ich appelliere an alle Schülerinnen und Schüler, die seit Monaten auf die Straßen gehen: Macht weiter, formuliert eine klare Liste mit Forderungen und zwingt die Politiker, sie einzuhalten!
 
 Danke
-```

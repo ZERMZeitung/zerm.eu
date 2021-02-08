@@ -1,6 +1,5 @@
 Gestern hielt ich für den permtv-Kanal [eine Rede über Feminismus, Social Justice Warrior und vor allem TERFs und SWERFs](https://youtu.be/KXZLN_jVvSo), hier finden Sie noch die Textfassung der Rede.
 
-```
 Sehr verehrte Damen und Herren,
 
 Liebe Leserinnen und Leser,
@@ -30,4 +29,3 @@ Diese setzen sich für eine Gleichberechtigung und gegen Ausgrenzung und Hass ei
 TERFs und SWERFs hingegen sollte man aufgrund ihrer Hassrede für eine bessere Gesellschaft bekämpfen.
 
 Herzlichen Dank.
-```
