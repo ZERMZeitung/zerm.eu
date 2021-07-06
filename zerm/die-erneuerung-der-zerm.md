@@ -16,8 +16,10 @@ Diese werden jetzt durch [`jasmin`](https://github.com/ZERMZeitung/jasmin) erset
 
 Zuletzt wurde noch der physische Server geändert: Von Anfang an wurde die ZERM vom `httpi` \{https://github.com/chrissxMedia/chrissx.de.conf.sh/blob/f43bb11e829792a84816534782ad54504c222d49/README.md#servers\}, später dem `httpis` \{https://github.com/chrissxMedia/chrissx.de.conf.sh/blob/14b0712def19e791c0e3d28e000b86f7259ef9e0/README.md#servers\}, aus Pegnitz ausgeliefert. Seit Kurzem allerdings wird ein neuer Server unter dem Codenamen `sophia` von chrissx Media betrieben. Dieser befindet sich in einem Rechenzentrum in Nürnberg und hat eine viel schnellere Internet-Anbindung. Darauf wird die ZERM, neben vielen anderen chrissx Media Webseiten, mit einem Nginx ausgeliefert, `jasmin` übernimmt für die ZERM das Backend. \{https://github.com/chrissxMedia/chrissx.de.conf.sh/blob/c28f60ac004e56ce982344201d7cb4b4684ed0cc/README.md#servers\}
 
-todo: css
+Zuletzt, inmitten der Entstehung dieses Artikels, wurde auch das Design nochmals etwas überarbeitet \{https://github.com/ZERMZeitung/zerm.eu/commit/16b13f032720509552773cf4a6884ce7cbbdbabb\} \{https://github.com/ZERMZeitung/zerm.eu/commit/a2fbc7f097838a68fea05ad0867d254e04b3e86e\}, wie Ihnen vielleicht schon aufgefallen ist.
 
 Man kann also konkludieren, dass die gesamte ZERM-Infrastruktur erneuert wurde. Sie wollen aber vielleicht noch wissen, welche Artikel als nächstes kommen.
 
-Welche Sie einschicken \{https://github.com/ZERMZeitung/zerm.eu/pulls\} \{mailto:zerm@chrissx.de\}, können wir natürlich nicht vorhersehen, aber bezüglich meiner kann ich Aussagen treffen: Die nächsten Artikel werden sich zumeist direkt mit der anstehenden Bundestagswahl befassen. Hier wird dann beispielsweise der Versuch des Aufbaus eines neuen Images der AfD behandelt oder über die, leider nicht ganz so bekannten, Skandale einiger großer Parteien berichtet.
+Welche Sie einschicken \{https://github.com/ZERMZeitung/zerm.eu/pulls\} \{mailto:zerm@chrissx.de\}, können wir natürlich nicht vorhersehen, aber bezüglich meiner kann ich Aussagen treffen: Die nächsten Artikel werden sich zumeist direkt mit der anstehenden Bundestagswahl befassen. Hier wird dann beispielsweise der Versuch des Aufbaus eines neuen Images der AfD behandelt oder über die, leider noch zu unbekannten, Skandale einiger großer Parteien berichtet.
+
+Nach der Bundestagswahl werden wieder Artikel zu allgemeineren Themen erscheinen.
