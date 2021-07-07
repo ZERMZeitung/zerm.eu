@@ -33,6 +33,24 @@ html {
         font-family: Woodcut;
 }
 
+.hlinks {
+        font-family: Helvetica, Inter, sans-serif;
+        font-weight: 600;
+}
+
+.header {
+        background-color: white;
+        border-radius: 10px 10px 10px 10px;
+        border-style: solid;
+        border-width: 1px;
+        margin: 0px 311px 0px 311px;
+        padding: 9px 0px 5px 0px;
+}
+
+.logo1, .logo2 {
+        color: black;
+}
+
 @media (prefers-color-scheme: light) {
         html {
                 color: black;
@@ -45,7 +63,13 @@ html {
         }
 
         :link, :visited {
-                color: #000099;
+                color: #0000aa;
+                text-decoration: none;
+        }
+
+        .hlink {
+                color: black;
+                text-decoration: underline;
         }
 }
 
@@ -61,7 +85,13 @@ html {
         }
 
         :link, :visited {
-                color: #ccccff;
+                color: #bbbbff;
+                text-decoration: none;
+        }
+
+        .hlink {
+                color: black;
+                text-decoration: underline;
         }
 }
 
@@ -75,10 +105,6 @@ html {
         border-radius: 3px;
         font-weight: 500;
         cursor: pointer
-}
-
-.rtl {
-        padding: 1px 6px 1px 8px
 }
 
 .twitterbutton:active,.twitterbutton:focus,.twitterbutton:hover {
