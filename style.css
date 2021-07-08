@@ -19,18 +19,18 @@ html {
         margin: 5px auto 2px auto;
 }
 
-.logo1 {
-        font-size: 40px;
+.logo1 { font-size: 40px; }
+.logo2 { font-size: 28px; }
+.ga1 { font-size: 24px; }
+.ga2 { font-size: 22px; }
+
+.logo1, .logo2, .ga1, .ga2 {
         font-family: Woodcut;
+        color: black;
 }
 
-.logo2 {
-        font-size: 28px;
-        font-family: Woodcut;
-}
-
-.zerm {
-        font-family: Woodcut;
+code {
+        font-family: Unifont, monospace;
 }
 
 .hlinks {
@@ -45,10 +45,6 @@ html {
         border-width: 1px;
         margin: 0px 311px 0px 311px;
         padding: 9px 0px 5px 0px;
-}
-
-.logo1, .logo2 {
-        color: black;
 }
 
 @media (prefers-color-scheme: light) {
