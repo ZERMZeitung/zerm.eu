@@ -1,3 +1,2 @@
 User-agent: *
-Disallow: /zm/
 Sitemap: https://zerm.eu/sitemap.xml
